@@ -24,7 +24,8 @@ The course focuses on statistical methods that do not rely on traditional parame
 ├── Exam1.ipynb           # Code related to Module 1: Introduction to Robust & NP Techniques
 ├── Exam2.ipynb           # Code related to Module 2: Robust Regression & Density Estimation
 ├── Exam3.ipynb           # Code related to Module 3: Rank-Based Statistical Tests
-└── Spline.ipynb          # Implementation of Spline Regression and Smoothing Techniques
+├── Spline.ipynb          # Implementation of Spline Regression and Smoothing Techniques
+└── FullClasses.ipynb     # Comprehensive notebook with code from all classes
 ```
 
 ### **Files Description:**
@@ -33,6 +34,7 @@ The course focuses on statistical methods that do not rely on traditional parame
 - **`Exam2.ipynb`**: Focuses on robust regression techniques, splines, and density estimation.
 - **`Exam3.ipynb`**: Implements rank-based tests and depth-based statistical methods.
 - **`Spline.ipynb`**: Dedicated notebook for spline models, smoothing techniques, and variance estimation.
+- **`FullClasses.ipynb`**: A comprehensive notebook containing code implementations and examples from all class sessions.
 
 ---
 
@@ -81,11 +83,5 @@ print(f"Robust Mean: {result}")
 
 ## 📚 References
 - Huber, P. J. (1981). *Robust Statistics*. Wiley.
-- Wilcox, R. R. (2011). *Introduction to Robust Estimation and Hypothesis Testing*. Academic Press.
+- Wilcox, R. R. (2013). *Introduction to Robust Estimation and Hypothesis Testing*. Academic Press.
 - Wasserman, L. (2006). *All of Nonparametric Statistics*. Springer.
-
----
-
-## 📜 License
-This project is for educational purposes. Feel free to use and modify it under the MIT License.
-
